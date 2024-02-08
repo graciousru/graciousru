@@ -4,7 +4,7 @@ Hi 👋 My name is Bethlyn Joseph
 Recent Graduate
 ---------------
 
-I studied Computer Science at Florida Atlantic University and received my Bachelor of Science. I am looking to start my career in Tech as a Front-end developer and expand as I learn more.
+I studied Computer Science at Florida Atlantic University and received my Bachelor of Science. I am looking to start my career in Tech.
 
 *   🌍  I'm based in Miami, Florida.
 *   ✉️  You can contact me at [jbethlyn10@gmail.com](mailto:jbethlyn10@gmail.com)
